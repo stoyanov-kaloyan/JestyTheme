@@ -25,7 +25,7 @@ h4 {
 
 /*Style backdrop*/
 .backdropImage {
-    filter: blur(6px) saturate(120%) contrast(120%) brightness(40%);
+    filter: blur(2px) saturate(105%) contrast(105%) brightness(40%);
 }
 .card.show-animation:focus > .cardBox {
     -webkit-transform: scale(1.1);
