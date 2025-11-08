@@ -143,9 +143,9 @@ button.emby-tab-button:nth-child(3) {
 
 /* Hide track selection box logic */
 
-.trackSelections > *:nth-child(n + 3) {
+/* .trackSelections > *:nth-child(n + 3) {
     visibility: hidden;
-}
+} */
 .trackSelections {
     position: relative !important;
 }
