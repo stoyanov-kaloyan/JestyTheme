@@ -151,7 +151,8 @@ button.emby-tab-button:nth-child(3) {
 }
 .selectAudioContainer,
 .selectSubtitlesContainer {
-    position: absolute;
+    /* position: absolute; */
+	position: relative;
 }
 .trackSelections .emby-select {
     width: 386px;
